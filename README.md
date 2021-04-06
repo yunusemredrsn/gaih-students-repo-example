@@ -1,8 +1,8 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 05.04.1995  
-**Name:** Yunus Emre 
+**Course Date:** 05.04.2021  
+**Name:** Yunus Emre  
 **Surname:** Dursun  
 **Email:** yunuseded.3851@gmail.com  
 
