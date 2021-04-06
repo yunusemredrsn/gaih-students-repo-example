@@ -1,6 +1,5 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
-![](img/TopLearnerCertificate.png)
 
 **Course Date:** 05.04.2021  
 **Name:** Yunus Emre  
